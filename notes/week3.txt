@@ -1,0 +1,6 @@
+Excellent work in lab!
+In homework, there are errors, few cells returned incorrect values. 
+Make sure you submit ipynb without any errors next time!
+
+hw: 80
+lab: 100
