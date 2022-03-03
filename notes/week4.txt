@@ -1,0 +1,5 @@
+You didn't plot the graph for the entire week! 
+You have few incorrect results in the lab!
+
+hw: 70
+lab: 80
